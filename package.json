@@ -1,0 +1,13 @@
+{
+  "name": "jordanbsanders-site",
+  "version": "1.0.0",
+  "description": "Jordan B. Sanders personal portfolio site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["portfolio", "static-site"],
+  "author": "Jordan B. Sanders",
+  "license": "ISC"
+}
